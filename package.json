@@ -16,5 +16,8 @@
     "jasmine": "^3.4.0",
     "jasmine-node": "^1.16.2",
     "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "growl": "^1.10.5"
   }
 }
