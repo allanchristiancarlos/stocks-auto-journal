@@ -1,0 +1,2 @@
+Loop to transactions see the buy and sell actions of each stock
+First but would be the date_bought and the last sell transaction till the number of shares are all sold would be the date_sold
